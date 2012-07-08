@@ -1,0 +1,3 @@
+add_lunch_combo full_vs910-eng
+add_lunch_combo full_vs910-userdebug
+add_lunch_combo cm_vs910-userdebug
